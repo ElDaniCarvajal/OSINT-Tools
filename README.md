@@ -3,6 +3,19 @@
 ## OSINT
 ## GEOINT + IMINT
 
+### GEOINT:
+**Historial de Mapas:** https://livingatlas.arcgis.com/wayback/?active=9812&ext=-134.17721,3.72176,-65.18307,40.06968
+
+**Google Earth:**
+
+**Google Maps:**
+
+**Bing Maps:**
+
+**Yandex Maps:**
+
+**Street view por direccion:** https://www.instantstreetview.com/
+
 ### IMINT:
 
 https://29a.ch/photo-forensics/#forensic-magnifier
