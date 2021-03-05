@@ -4,10 +4,10 @@
 ## GEOINT + IMINT
 
 ### IMINT:
-https://29a.ch/photo-forensics/#forensic-magnifier
-https://fotoforensics.com/
-Analiza cantidad de personas por densidad: https://www.gkstill.com/Support/crowd-density/625sm/Density6.html
-Trayectoria solar: http://andrewmarsh.com/apps/staging/sunpath3d.html
+_https://29a.ch/photo-forensics/#forensic-magnifier_
+_https://fotoforensics.com/_
+_Analiza cantidad de personas por densidad: https://www.gkstill.com/Support/crowd-density/625sm/Density6.html_
+_Trayectoria solar: http://andrewmarsh.com/apps/staging/sunpath3d.html_
 
 
 ### Analisis de Objetos
