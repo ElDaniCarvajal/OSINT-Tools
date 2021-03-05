@@ -22,6 +22,8 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 https://fotoforensics.com/
 
+**Calculador Solar:** https://www.suncalc.org/
+
 **Analiza cantidad de personas por densidad:** https://www.gkstill.com/Support/crowd-density/625sm/Density6.html
 
 **Trayectoria solar:** http://andrewmarsh.com/apps/staging/sunpath3d.html
@@ -41,6 +43,11 @@ https://fotoforensics.com/
 https://whopostedwhat.com/
 
 ### Twitter
+
+https://tinfoleak.com/
+
+https://socialbearing.com/
+
 http://spoonbill.io/
 
 https://accountanalysis.app/
