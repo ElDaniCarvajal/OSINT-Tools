@@ -102,3 +102,10 @@ https://www.broadcastify.com/
 https://intelx.io/tools
 
 https://www.osintessentials.com/map-tools
+
+## Retos y practica:
+https://twitter.com/quiztime
+https://ctf.cybersoc.wales/challenges
+https://www.europol.europa.eu/stopchildabuse
+https://tryhackme.com/dashboard
+https://sourcing.games/
