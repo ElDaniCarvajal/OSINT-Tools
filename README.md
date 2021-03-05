@@ -7,6 +7,7 @@
 https://29a.ch/photo-forensics/#forensic-magnifier
 https://fotoforensics.com/
 Analiza cantidad de personas por densidad: https://www.gkstill.com/Support/crowd-density/625sm/Density6.html
+Trayectoria solar: http://andrewmarsh.com/apps/staging/sunpath3d.html
 
 
 ### Analisis de Objetos
@@ -38,10 +39,14 @@ https://twopcharts.com/
 
 ## SIGINT
 ### Aereo:
+https://www.flightradar24.com/51.5,-0.12/6
 https://www.radarbox.com/@3.75815,-53.62937,z3
+https://planefinder.net/
 https://flightaware.com/
 https://radar.freedar.uk/VirtualRadar/desktop.html
 https://airlinetaillogos.wordpress.com/
+https://airportwebcams.net/
+https://www.planespotters.net/
 
 ### Acuatico:
 https://www.vesselfinder.com/
