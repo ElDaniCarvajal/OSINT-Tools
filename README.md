@@ -2,9 +2,59 @@
 
 ## OSINT
 
+### Usernames
+
+https://namechk.com/
+
+https://knowem.com/checksocialnames.php
+
+https://namecheckup.com/
+
+https://instantusername.com/#/
+
+**Tinder:** https://tinder.com/@<username>
+
+### Email Address
+https://hunter.io/
+
+https://www.email-format.com/ 
+
+https://infotracer.com/email-lookup/ 
+
+http://metricsparrow.com/toolkit/email-permutator/ 
+
+https://mailtester.com/testmail.php 
+
+https://verify-email.org/ 
+
+https://emailrep.io/ 
+
+https://haveibeenpwned.com/ 
+
+https://dehashed.com/ 
+
+https://intelx.io/ 
+
+https://emkei.cz/
+
+### Dominios
+
+### Direcciones IP
+
+### Imagenes
+
 **Analisis Forense a Imagenes:** https://29a.ch/photo-forensics/#forensic-magnifier
 
 **Analisis Forense a Imagenes:** https://fotoforensics.com/
+
+### Videos
+
+### Nombres
+
+### Numero Telefoniico
+
+
+
 ## GEOINT + IMINT
 
 ### GEOINT:
