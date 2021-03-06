@@ -115,6 +115,11 @@ https://twxplorer.knightlab.com/search/
 https://twopcharts.com/
 
 ### Instagram
+
+https://www.instagram.com/explore/locations/
+
+https://chrome.google.com/webstore/detail/downloader-for-instagram/aiiipnfjfbdeljlgjbdindojpccklnim
+
 ### YouTube
 ### Linkedin
 ### Ask.fm
