@@ -1,26 +1,26 @@
 # Herramientas de Inteligencia
 
 ## OSINT
+
+**Analisis Forense a Imagenes:** https://29a.ch/photo-forensics/#forensic-magnifier
+
+**Analisis Forense a Imagenes:** https://fotoforensics.com/
 ## GEOINT + IMINT
 
 ### GEOINT:
 **Historial de Mapas:** https://livingatlas.arcgis.com/wayback/?active=9812&ext=-134.17721,3.72176,-65.18307,40.06968
 
-**Google Earth:**
+**Google Earth:** https://earth.google.com/web/
 
-**Google Maps:**
+**Google Maps:** https://www.google.com/maps
 
-**Bing Maps:**
+**Bing Maps:** https://www.bing.com/maps
 
-**Yandex Maps:**
+**Yandex Maps:** https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4
 
 **Street view por direccion:** https://www.instantstreetview.com/
 
 ### IMINT:
-
-https://29a.ch/photo-forensics/#forensic-magnifier
-
-https://fotoforensics.com/
 
 **Calculador Solar:** https://www.suncalc.org/
 
