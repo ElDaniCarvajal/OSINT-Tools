@@ -12,7 +12,7 @@ https://namecheckup.com/
 
 https://instantusername.com/#/
 
-**Tinder:** https://tinder.com/@<username>
+**Tinder:** https://tinder.com/@usuario
 
 ### Email Address
 https://hunter.io/
