@@ -41,6 +41,26 @@ https://emkei.cz/
 
 ### Direcciones IP
 
+https://whatismyipaddress.com/
+
+https://www.ipaddress.my/
+
+https://www.zoomeye.org/
+
+https://www.shodan.io/
+
+https://censys.io/data
+
+https://spyse.com/
+
+https://urlscan.io/
+
+https://hackertarget.com/reverse-dns-lookup/
+
+https://dnslytics.com/
+
+https://grabify.link/
+
 ### Imagenes
 
 **Analisis Forense a Imagenes:** https://29a.ch/photo-forensics/#forensic-magnifier
@@ -130,6 +150,10 @@ https://mattw.io/youtube-metadata/
 
 https://mattw.io/youtube-geofind/
 
+### TikTok
+
+https://www.osintcombine.com/tiktok-quick-search
+
 ### Linkedin
 ### Ask.fm
 ### Tinder
@@ -175,6 +199,7 @@ https://www.eyepaste.com/
 https://protonmail.com/es/
 
 ## OTROS:
+**Reverse Words:** http://www.onelook.com/reverse-dictionary.shtml?s=Weed
 
 https://intelx.io/tools
 
