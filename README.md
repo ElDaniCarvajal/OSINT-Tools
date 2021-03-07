@@ -75,8 +75,11 @@ http://ipverse.net/
 ### Imagenes
 
 **Reverse Image Chrome:** https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
+
 **Reverse Image Firefox:** https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
+
 **Reverse Image Edge:** https://microsoftedge.microsoft.com/addons/detail/search-by-image/hckehkfhdkpmdlonmjaagiodlpjbonmc
+
 **Reverse Image Opera:** https://addons.opera.com/en/extensions/details/search-by-image/
 
 **Extractor de Texto: ** https://www.i2ocr.com/
@@ -199,6 +202,8 @@ https://airportwebcams.net/
 
 https://www.planespotters.net/
 
+https://cam.airlive.net/
+
 ### Acuatico:
 https://www.vesselfinder.com/
 
@@ -237,9 +242,15 @@ https://www.osintessentials.com/map-tools
 
 ## Retos y practica:
 https://twitter.com/quiztime
+
 https://ctf.cybersoc.wales/challenges
+
 https://www.europol.europa.eu/stopchildabuse
+
 https://tryhackme.com/dashboard
+
 https://sourcing.games/
+
 https://www.osintdojo.com/ranks/
+
 https://www.tracelabs.org/initiatives/search-party
