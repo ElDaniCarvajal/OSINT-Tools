@@ -38,6 +38,9 @@ https://intelx.io/
 https://emkei.cz/
 
 ### Dominios
+https://who.is/
+
+https://www.whois.net/
 
 ### Direcciones IP
 
@@ -60,6 +63,8 @@ https://hackertarget.com/reverse-dns-lookup/
 https://dnslytics.com/
 
 https://grabify.link/
+
+http://ipverse.net/
 
 ### Imagenes
 
@@ -156,7 +161,10 @@ https://www.osintcombine.com/tiktok-quick-search
 
 ### Linkedin
 ### Ask.fm
+
 ### Tinder
+
+https://tinder.com/@usuario
 
 ## SIGINT
 ### Aereo:
