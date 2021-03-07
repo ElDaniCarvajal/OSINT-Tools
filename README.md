@@ -92,6 +92,8 @@ https://emkei.cz/
 ### Facebook:
 https://whopostedwhat.com/
 
+https://intelx.io/tools?tab=facebook
+
 ### Twitter
 
 https://tinfoleak.com/
@@ -121,6 +123,13 @@ https://www.instagram.com/explore/locations/
 https://chrome.google.com/webstore/detail/downloader-for-instagram/aiiipnfjfbdeljlgjbdindojpccklnim
 
 ### YouTube
+
+https://citizenevidence.amnestyusa.org/
+
+https://mattw.io/youtube-metadata/
+
+https://mattw.io/youtube-geofind/
+
 ### Linkedin
 ### Ask.fm
 ### Tinder
@@ -152,9 +161,29 @@ https://www.marinetraffic.com/en/ais/home/centerx:-17.2/centery:18.5/zoom:2
 
 https://www.broadcastify.com/
 
+## ANONIMATO:
+
+### Vuelvete Anonimo:
+https://amiunique.org/fp
+
+### Correos Temporales:
+
+https://www.eyepaste.com/
+
+### Correos Anonimos:
+
+https://protonmail.com/es/
+
 ## OTROS:
 
 https://intelx.io/tools
+
+### Herramientas de Apoyogo
+https://www.forensicnotes.com/
+
+http://osirtbrowser.com/
+
+https://hunch.ly/
 
 https://www.osintessentials.com/map-tools
 
