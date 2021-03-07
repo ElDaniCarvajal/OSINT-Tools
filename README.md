@@ -66,11 +66,25 @@ https://grabify.link/
 
 http://ipverse.net/
 
+### Wireless Data
+
+**Telefonos Celulares Antenas:** https://opencellid.org/
+**Datos Wifi:** https://wigle.net/
+
 ### Imagenes
+
+**Reverse Image Chrome:** https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
+**Reverse Image Firefox:** https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
+**Reverse Image Edge:** https://microsoftedge.microsoft.com/addons/detail/search-by-image/hckehkfhdkpmdlonmjaagiodlpjbonmc
+**Reverse Image Opera:** https://addons.opera.com/en/extensions/details/search-by-image/
+
+**Extractor de Texto: ** https://www.i2ocr.com/
 
 **Analisis Forense a Imagenes:** https://29a.ch/photo-forensics/#forensic-magnifier
 
 **Analisis Forense a Imagenes:** https://fotoforensics.com/
+
+**Reconocimiento de Objetos: ** http://camfindapp.com/
 
 ### Videos
 
