@@ -78,6 +78,8 @@ http://ipverse.net/
 
 **Reverse Image Firefox:** https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
 
+**Camuflaje por pais: ** https://www.camopedia.org/index.php?title=Main_Page
+
 **Reverse Image Edge:** https://microsoftedge.microsoft.com/addons/detail/search-by-image/hckehkfhdkpmdlonmjaagiodlpjbonmc
 
 **Reverse Image Opera:** https://addons.opera.com/en/extensions/details/search-by-image/
