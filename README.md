@@ -125,7 +125,10 @@ http://ipverse.net/
 ### Analisis de Objetos
 
 **Señales de Trafico Europeas:** https://en.wikipedia.org/wiki/Comparison_of_European_road_signs
-**Señales de Trafico America:**
+
+**Señales de Trafico America:** https://en.wikipedia.org/wiki/Comparison_of_MUTCD-influenced_traffic_signs
+
+**Camuflaje por pais: **https://www.camopedia.org/index.php?title=Main_Page
 
 **Placas:** http://www.worldlicenseplates.com/
 
