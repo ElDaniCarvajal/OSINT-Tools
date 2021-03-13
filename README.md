@@ -78,19 +78,18 @@ http://ipverse.net/
 
 **Reverse Image Firefox:** https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
 
-**Camuflaje por pais: ** https://www.camopedia.org/index.php?title=Main_Page
 
 **Reverse Image Edge:** https://microsoftedge.microsoft.com/addons/detail/search-by-image/hckehkfhdkpmdlonmjaagiodlpjbonmc
 
 **Reverse Image Opera:** https://addons.opera.com/en/extensions/details/search-by-image/
 
-**Extractor de Texto: ** https://www.i2ocr.com/
+**Extractor de Texto:** https://www.i2ocr.com/
 
 **Analisis Forense a Imagenes:** https://29a.ch/photo-forensics/#forensic-magnifier
 
 **Analisis Forense a Imagenes:** https://fotoforensics.com/
 
-**Reconocimiento de Objetos: ** http://camfindapp.com/
+**Reconocimiento de Objetos:** http://camfindapp.com/
 
 ### Videos
 
@@ -117,6 +116,8 @@ http://ipverse.net/
 
 ### IMINT:
 
+**Historial de Clima:** https://www.timeanddate.com/
+
 **Calculador Solar:** https://www.suncalc.org/
 
 **Analiza cantidad de personas por densidad:** https://www.gkstill.com/Support/crowd-density/625sm/Density6.html
@@ -129,6 +130,8 @@ http://ipverse.net/
 **Señales de Trafico Europeas:** https://en.wikipedia.org/wiki/Comparison_of_European_road_signs
 
 **Señales de Trafico America:** https://en.wikipedia.org/wiki/Comparison_of_MUTCD-influenced_traffic_signs
+
+**Camuflaje por pais:** https://www.camopedia.org/index.php?title=Main_Page
 
 **Placas:** http://www.worldlicenseplates.com/
 
