@@ -124,6 +124,9 @@ http://ipverse.net/
 
 ### Analisis de Objetos
 
+**Señales de Trafico Europeas:** https://en.wikipedia.org/wiki/Comparison_of_European_road_signs
+**Señales de Trafico America:**
+
 **Placas:** http://www.worldlicenseplates.com/
 
 **Insignias Militares:** http://www.uniforminsignia.org/
