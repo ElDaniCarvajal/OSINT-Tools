@@ -128,8 +128,6 @@ http://ipverse.net/
 
 **Señales de Trafico America:** https://en.wikipedia.org/wiki/Comparison_of_MUTCD-influenced_traffic_signs
 
-**Camuflaje por pais: **https://www.camopedia.org/index.php?title=Main_Page
-
 **Placas:** http://www.worldlicenseplates.com/
 
 **Insignias Militares:** http://www.uniforminsignia.org/
