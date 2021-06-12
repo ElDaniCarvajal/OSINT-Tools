@@ -262,6 +262,8 @@ https://www.osintessentials.com/map-tools
 ## Retos y practica:
 https://twitter.com/quiztime
 
+https://www.geoguessr.com/
+
 https://ctf.cybersoc.wales/challenges
 
 https://www.europol.europa.eu/stopchildabuse
