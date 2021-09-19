@@ -93,6 +93,8 @@ http://ipverse.net/
 
 **Reconocimiento de Objetos:** http://camfindapp.com/
 
+**Calculador de Edad:** https://age.toolpie.com/
+
 ### Videos
 
 ### Nombres
