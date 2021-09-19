@@ -95,6 +95,8 @@ http://ipverse.net/
 
 **Calculador de Edad:** https://age.toolpie.com/
 
+**Calculador de Edad:** https://www.facelytics.io/
+
 ### Videos
 
 ### Nombres
