@@ -109,6 +109,8 @@ http://ipverse.net/
 
 ### Numero Telefoniico
 
+**True Caller:** https://www.truecaller.com/
+**Carrier Look Up:** https://freecarrierlookup.com/
 
 
 ## GEOINT + IMINT
