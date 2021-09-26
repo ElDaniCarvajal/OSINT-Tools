@@ -48,7 +48,7 @@ https://emkei.cz/
 ### Dominios
 https://who.is/
 
-https://www.whois.net/
+https://www.whois.com/whois/
 
 ### Direcciones IP
 
