@@ -289,3 +289,14 @@ https://sourcing.games/
 https://www.osintdojo.com/ranks/
 
 https://www.tracelabs.org/initiatives/search-party
+
+## Gobierno Mexicano:
+https://www.repuve-consultar.com/consulta-ciudadana
+
+https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS
+
+https://www.gob.mx/curp/
+
+https://www.gob.mx/ActaNacimiento/
+
+https://www.sat.gob.mx/aplicacion/operacion/31274/consulta-tu-clave-de-rfc-mediante-curp
