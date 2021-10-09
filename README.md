@@ -47,6 +47,14 @@ https://intelx.io/
 
 https://emkei.cz/
 
+### Telefonos
+
+https://chatwatch.net/
+
+TrueCaller
+
+Free Carrier Lookup
+
 ### Dominios
 https://who.is/
 
