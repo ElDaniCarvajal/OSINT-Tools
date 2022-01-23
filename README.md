@@ -140,6 +140,14 @@ http://ipverse.net/
 
 **Street view por direccion:** https://www.instantstreetview.com/
 
+**Overpass Turbo:** https://overpass-turbo.eu/
+
+**Overpass QL Doc:** https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL
+
+**Wikimapia:** https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL
+
+**Dual Maps:** https://www.mapchannels.com/DualMaps.aspx
+
 ### IMINT:
 
 **Historial de Clima:** https://www.timeanddate.com/
@@ -168,6 +176,8 @@ http://ipverse.net/
 **Insignias Militares:** http://www.uniforminsignia.org/
 
 **Alcantarillas:** http://www.schachtdeckel.de/A_start.php
+
+**Colas de Avión:** https://airlinetaillogos.wordpress.com/
 
 ## CYBINT
 ## SOCMINT:
